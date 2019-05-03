@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/sladojevic/CreateFirstPipeline/_apis/build/status/CreateFirstPipeline-Pipeline01?branchName=master)](https://dev.azure.com/sladojevic/CreateFirstPipeline/_build/latest?definitionId=1&branchName=master)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
